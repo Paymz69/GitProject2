@@ -12,4 +12,9 @@ public class DemoDay5 {
 		
 		System.out.println("Wrong");
 	}
+	
+	public static void getInfo() {
+		
+		System.out.println("Tmrw");
+	}
 }
