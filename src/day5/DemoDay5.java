@@ -7,4 +7,9 @@ public class DemoDay5 {
 		
 		System.out.println("Today");
 	}
+
+		public static void getData() {
+		
+		System.out.println("Wrong");
+	}
 }
